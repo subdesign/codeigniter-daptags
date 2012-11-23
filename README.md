@@ -36,7 +36,7 @@ Edit the __daptags.php__ _config_ file.
 
 ### example/index()
 
-Generates the tag cloud and show it in the view.
+Generates the tag cloud and shows it in the view.
 
 ![Tag cloud](http://devartpro.com/assets/daptags01.jpg "Tag cloud")
 
