@@ -27,7 +27,7 @@ Edit the __daptags.php__ _config_ file.
 
 * $limit - limit the number of tags in tag cloud  
 * $divider - html tag(s) for dividing tags  
-* $tags_order - ordering tags aplphabetically ascending or descending  
+* $tags_order - ordering tags alphabetically ascending or descending  
 * $tag_container - class name of the tag cloud containing DIV  
 * $cache - Enable or disable file cache  
 * $cache_ttl - Cache lifetime settings in ms
