@@ -38,19 +38,13 @@ Edit the __daptags.php__ _config_ file.
 
 Generates the tag cloud and shows it in the view.
 
-![Tag cloud](http://devartpro.com/assets/daptags01.jpg "Tag cloud")
-
 ### example/article($id)
 
 Loads an article with the corresponding tags with it
 
-![Tags after article](http://devartpro.com/assets/daptags02.jpg "Tags after article")
-
 ### example/tag($tag)
 
 Displays the articles after clicking a tag in tag cloud
-
-![Articles by tag](http://devartpro.com/assets/daptags03.jpg "Articles by tag")  
 
 _Note: the library uses shortened uri like /tag, you have to create a route in the routes.php._
 
